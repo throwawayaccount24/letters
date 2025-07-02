@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Letters to Mirabelle 💌</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Playfair+Display&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- 🔐 Password Prompt -->
+  <div id="password-prompt" class="container">
+    <h1>Letters to Mirabelle</h1>
+    <p>Please enter the password to view the notes:</p>
+    <input type="password" id="password-input" placeholder="Password" />
+    <button onclick="checkPassword()">Submit</button>
+    <p id="wrong-pass" style="color: red; display: none;">Wrong password. You're clearly not Mirabelle so buzz off lowkey...</p>
+  </div>
+
+  <!-- 💌 Main Site Content (Hidden by Default) -->
+  <div id="main-content" class="overlay hidden">
+    <div class="container">
+      <h1>Letters to Mirabelle</h1>
+      <div id="note" class="note-text"></div>
+      <button id="archiveBtn">Open Archive 📅</button>
+      <div id="calendarPopup" class="calendar-popup hidden">
+        <input type="date" id="calendarInput" max="" />
+        <button onclick="closeCalendar()">Close</button>
+        <div id="pastNote"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
