@@ -269,6 +269,15 @@ I’m so down bad for you.
 Sincerely,
 Ryan Shahbaba`
   },
+  {
+    date: "July 3rd, 2025",
+    text: `Dear Mirabelle Jiang,
+
+My couch still smells like you. I don’t think it’ll last, but its smelt like you for like the past two days, I hope it continues… I lie down in the same spot every time I’m on the couch just thinking about you and of what we did. Not just the 𝓯𝓻𝓮𝓪𝓴𝔂 stuff obviously, but the other stuff too. Just cuddling and watching movies, building that mini lego heart, watching you ditch me for my dog (that cockblock…); and I honestly just miss you so much. I can’t wait to see you again, smell you, feel you. I want it all, I’m greedy as fuck. I’m dragging your ass into my house first day you come back, so I can memorize your smell and make a candle out of it. I think that would be nice, Mirabelle scented candles! Anyways this all to say once again, I miss you so much Mirabelle. For now though, I’ll just savor your scent while I still have it.
+
+Sincerely,
+Ryan Shahbaba`
+  },
 ]
 
 const startDate = new Date("2025-06-10");
