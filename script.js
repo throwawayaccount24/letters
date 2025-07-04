@@ -278,6 +278,18 @@ My couch still smells like you. I don’t think it’ll last, but its smelt like
 Sincerely,
 Ryan Shahbaba`
   },
+  {
+    date: "July 4th, 2025",
+    text: `Dear Mirabelle Jiang,
+
+My couch still smells like you. I don’t think it’ll last, but its smelt like you for like the past two days, I hope it continues… I lie down in the same spot every time I’m on the couch just thinking about you and of what we did. Not just the 𝓯𝓻𝓮𝓪𝓴𝔂 stuff obviously, but the other stuff too. Just cuddling and watching movies, building that mini lego heart, watching you ditch me for my dog (that cockblock…); and I honestly just miss you so much. I can’t wait to see you again, smell you, feel you. I want it all, I’m greedy as fuck. I’m dragging your ass into my house first day you come back, so I can memorize your smell and make a candle out of it. I think that would be nice, Mirabelle scented candles! Anyways this all to say once again, I miss you so much Mirabelle. For now though, I’ll just savor your scent while I still have it.
+Happy 4th of July! I know how big 4th of July is over there for you guys in China so I’m sure you are having tons of fun! Although we both absolutely LOVE July 4th, I have a confession to make. Recently my favorite holiday has become something else… Valentine’s day… I know, I’m embarrassed. But I can’t help but to think about this really nice Valentine’s day experience I had. Where I received my favorite gift of all time - genuinely undisputed as far as I can think - THE 7/11 CREWNECK!! I know I technically got that after Valentine’s day, but I genuinely love that crewneck so much, I don’t think you realize just how hilarious that gift was and how much it embodies me. I miss the crewneck but it brings me comfort knowing it’s with you across seas right now, I know you’ll take good care of it for me :). I wanted to make this more about the valentine’s day itself, but I have a note later on about that. I hope you sleep with the crewneck everynight like its me sleeping with you :) I’ll keep your box of notes with me like I’m sleeping with you. Already have a nice place picked out for it, right by my bedside where my parents can’t see, and I can wake up to every morning :). I’m using a lot of smiley faces and am kinda rambling but just know I’m grinning thinking about valentine’s day right now and can’t really focus on writing this in a coherent manner, man I really fucking miss you…
+
+HURRY UP AND COME BACK  YOU ASSHOLE!!  
+
+Sincerely,  
+Ryan Shahbaba :(`
+  },
 ]
 
 const startDate = new Date("2025-06-10");
