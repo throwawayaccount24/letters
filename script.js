@@ -290,13 +290,17 @@ Sincerely,  
 Ryan Shahbaba :(`
   },
   {
-    date: "July 5th, 2025"
+    date: "July 5th, 2025",
     text: `Dear Mirabelle Jiang,
+    
+I lowkey changed this note because I didn’t like it as much as my other ones. So this is present day Ryan speaking. Hi hello hey…
 
-I lowkey changed this note because I didn’t like it as much as my other ones. So this is present day Ryan speaking. Hi hello hey… 
+You always ask me how I’m going to last in college, and although I always joke about not being able to survive without, I think today I realized how I will actually be able to push through missing you. Whenever I work on a project, or go to the gym, or do something productive, I think of that as not just one step in improving myself, but moreover improving myself for you. And thats my biggest motivation that will let me survive without you. I get to work on myself to impress you every time I see you in person. And at the end of the day, thats all life is really about! Getting to impress Mirabelle is how I will push through college, get that 4.3, get that PhD offer, those internships, stranger body, and whatnot. I will survive (even though it will be hard). But I truly think I can do it. But right I am tweaking out because I miss you so much you asshole hurry up and come back. 
 
-You always ask me how I’m going to last in college, and although I always joke about not being able to survive without, I think today I realized how I will actually be able to push through missing you. Whenever I work on a project, or go to the gym, or do something productive, I think of that as not just one step in improving myself, but moreover improving myself for you. And thats my biggest motivation that will let me survive without you. I get to work on myself to impress you every time I see you in person. And at the end of the day, thats all life is really about! Getting to impress Mirabelle is how I will push through college, get that 4.3, get that PhD offer, those internships, stranger body, and whatnot. I will survive (even though it will be hard). But I truly think I can do it. But right I am tweaking out because I miss you so much you asshole hurry up and come back.   Sincerely,  Ryan Shahbaba`
-  }
+Sincerely,
+
+Ryan Shahbaba`
+  },
 ]
 
 const startDate = new Date("2025-06-10");
