@@ -301,6 +301,16 @@ Sincerely,
 
 Ryan Shahbaba`
   },
+  {
+    date: "July 6th, 2025",
+    text: `Dear Mirabelle Jiang,
+    
+I don’t know what the future holds and I don’t claim too. I just know the one element I want it to have: us. I think thats corny but I really mean it. I want us to work, if not as a couple, as friends. I think this is a little dramatic but I am attached to you — not in a “IM GOING TO DIE WITHOUT YOU” way, but in a “Damn I just had this good meal I gotta share with Mirabelle” or “Aww I see this cute dog in the gym, Mirabelle might like to hear about it” kinda way. You are the singular person I genuinely feel the need to share things with, no matter how miniscule. I enjoy having you around, and although it’s naive to expect anything, I promise I’ll stay in contact no matter what. You are NOT getting rid of me that easily :). I miss you so much.
+ 
+Sincerely,
+  Ryan Shahbaba`
+
+  }
 ]
 
 const startDate = new Date("2025-06-10");
