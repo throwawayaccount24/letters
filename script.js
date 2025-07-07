@@ -309,6 +309,17 @@ I don’t know what the future holds and I don’t claim too. I just know the on
  
 Sincerely,
   Ryan Shahbaba`
+  },
+  {
+    date: "July 7th, 2025",
+    text: `Dear Mirabelle Jiang,
+    
+Edit in post: (Can’t even make this up, this was just the note was about before we talked about this lol). 
+
+Breaking up before graduation. I think that was the stupidest thing I’ve ever said, and I’ve said a lot of stupid things. It’s just sometimes I get scared thinking about what the future holds, and I didn’t like the idea of a future without you in it. I know thats a stark possibility but I just like you so much it would hurt thinking about. So instead of thinking about it, I just thought maybe the sooner I ripped the bandaid off the better (stupid I know). But in all honesty I don’t think my pussy ass could ever go through with ending it with you. I’d be on your doorstep begging for a 2nd chance after I realized the stupid mistake I made. To be frank, I like you so much Mirabelle and I want nothing more to make it work. I want to impress you with all my accomplishments and work towards new goals to support you. I want to be there for all your accomplishments and help you work through anything you are going through. I want to hold you in my arms (even if its just for a couple weeks at a time), and sleep by you and travel with you, there is just so many things I wanna do and it would be a shame to end it off so soon. I hope it works out and we get to do all that stuff, but at the very least I can hold you in my arms a little longer before you leave :).
+
+Sincerely,
+  Ryan Shahbaba`
 
   }
 ]
