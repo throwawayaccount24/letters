@@ -331,7 +331,7 @@ Sincerely,
 Your biggest freak
 
 Fan*`
-
+  }
 ]
 
 const startDate = new Date("2025-06-10");
