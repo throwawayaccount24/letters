@@ -320,8 +320,18 @@ Breaking up before graduation. I think that was the stupidest thing I’ve ever 
 
 Sincerely,
   Ryan Shahbaba`
+  },
+  {
+    date: "July 8th, 2025",
+    text: `Dear Mirabelle Jiang,
 
-  }
+I am such a freak for you. The day you left and we were in the parking lot, all I could think is “damn I need more Mirabelle.” I literally don’t know why but I just wanted a kiss or something to satiate my yearning for you (though I know that wouldn’t be enough). I think you are genuinely the single meal I could never get full of. I wish you were here and we could do even more stuff together. I can promise you one thing, if we do do LDR, I will eventually lose patience waiting for you to come back and go over there myself and grab you. I miss filling up on my Mirabelle. I can’t wait for you to come back so we can do all the freak stuff (WITH THE NON FREAK STUFF OFCOURSE). Come back soon :(.
+
+Sincerely,
+Your biggest freak
+
+Fan*`
+
 ]
 
 const startDate = new Date("2025-06-10");
