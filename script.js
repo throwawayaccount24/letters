@@ -331,6 +331,14 @@ Sincerely,
 Your biggest freak
 
 Fan*`
+  },
+  {
+    date: "July 9th, 2025",
+    text: `Dear Mirabelle Jiang,
+
+I always ramble on about how I do a lot of things with you I normally would never do with other people. I think the biggest one is being sincere. In the sense I’ll often tell people what they want to hear to help calm their nerves, or sugar coat the situation they may be in or whatever. Except with you I quite literally never have to sugar coat things because it’s so fucking easy to compliment you. Like you are my dream girl bro, personality, looks (yes I’m a freak), intelligence like damn bro. I think sometimes I just blurt out random compliments when talking to you because I’m like overflowing with them and I just can’t stop myself at this point. How you are real a person?—I dont know. Sometimes I wonder if this is like a personal hell, having to meet my dream girl so early in life and then go on with the rest of my life bored. Anyways in the mean time I’m going to enjoy every bit of you while I still have you :). I don’t care if I get more addicted thats a sacrifice I’m willing to make.
+Sincerely,
+Ryan Shahbaba`
   }
 ]
 
