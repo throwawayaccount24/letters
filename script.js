@@ -348,6 +348,15 @@ I still think about all the awkward moments I’ve had in regards to you. And th
 
 Sincerely,
 Ryan Shahbaba`
+  },
+  {
+   date: "July 11th, 2025",
+    text: `Dear Mirabelle Jiang,
+
+TODAY IS JULY 11TH AKA NATIONAL 7/11 DAY AKA NATIONAL SLURPEE DAY. ITS 7/11 TODAY MIRABELLE ITS 7/11!!! 7/11!!!!! LETS FUCKING GO!!! I miss my crewneck, I love 7/11 so much; like I liked it before, but since you gave me that 7/11 crewneck I have loved 7/11 since. Every time I see a 7/11 I get reminded of you (I know thats not a very flattering thing to be compared to but like damn do I miss you). Everything reminds me of you, and you are hardly even gone right now. I miss you so much man I’m tweaking out. This is a tweak out note. HAPPY 7/11!!! I miss you you asshole come back. COME BACK!!! 7/11 WOOO!!! COME BACK!!!! PLEASE!!!!! I CANT EVEN WRITE THIS IN A ROMANTIC WAY JUST COME BACK IN MY ARMS NOW.
+
+Sincerely,
+Ryan Shahbaba`
   }
 ]
 
