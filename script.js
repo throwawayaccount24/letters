@@ -339,6 +339,15 @@ Fan*`
 I always ramble on about how I do a lot of things with you I normally would never do with other people. I think the biggest one is being sincere. In the sense I’ll often tell people what they want to hear to help calm their nerves, or sugar coat the situation they may be in or whatever. Except with you I quite literally never have to sugar coat things because it’s so fucking easy to compliment you. Like you are my dream girl bro, personality, looks (yes I’m a freak), intelligence like damn bro. I think sometimes I just blurt out random compliments when talking to you because I’m like overflowing with them and I just can’t stop myself at this point. How you are real a person?—I dont know. Sometimes I wonder if this is like a personal hell, having to meet my dream girl so early in life and then go on with the rest of my life bored. Anyways in the mean time I’m going to enjoy every bit of you while I still have you :). I don’t care if I get more addicted thats a sacrifice I’m willing to make.
 Sincerely,
 Ryan Shahbaba`
+  },
+  {
+   date: "July 10th, 2025",
+    text: `Dear Mirabelle Jiang,
+
+I still think about all the awkward moments I’ve had in regards to you. And they all always seem to revolve around not timing things right. Either waiting too long to confess feelings or make moves, or doing the complete opposite. But both types of mistakes are caused by the same thing: I don’t wanna mess things up. I like you so much that my (otherwise very very organized that we all know is very organized) brain gets confused and just blurts stuff out too early in the relationship or tells me to wait longer. I know I’m very scrambled usually, but something about you got my brain chemistry wired in a way where it locks in all on avenues except timing things right with you. I’m so addicted to you that I want to chase the high I feel whenever I’m around you and that gets my brain scrambled in a way where I have to carefully navigate how I time things so I can keep you. Basically what im saying is, you are like a drug, but a drug that I don’t wanna stop be addicted to. Blegh!!!
+
+Sincerely,
+Ryan Shahbaba`
   }
 ]
 
