@@ -357,6 +357,15 @@ TODAY IS JULY 11TH AKA NATIONAL 7/11 DAY AKA NATIONAL SLURPEE DAY. ITS 7/11 TODA
 
 Sincerely,
 Ryan Shahbaba`
+  },
+  {
+   date: "July 12th, 2025",
+    text: `Dear Mirabelle Jiang,
+
+I like how particular you are about things. Your scent, your style, even stuff like your nails. I know technically anyone can just spray whatever perfume they want on themselves or any clothes or whatnot but with you, you know exactly which ones to pick. Anyways I miss all those things about you and because you didn’t leave me a shirt or anything and because I’m incredibly down bad. I think one of these days, ima just go down to Macy’s find your perfume and just take some samples with me home because damn I miss your scent. As I am writing this note I am thinking about how down bad this is, but like at this point whatever, I’m a freak for you. I hope things are going good between us right now, because all this downbadness will be very stupid otherwise. ANYWAYS I MISS YOU ASSHOLE COME BACK!!! AND GIVE ME YOUR PERFUME NAME SO I DONT LOOK LIKE AN IDIOT AT MACYS SNIFFING EACH PERFUME TILL I FIND YOURS. I MISS YOUR SCENT :(.
+
+Sincerely,
+Ryan Shahbaba`
   }
 ]
 
