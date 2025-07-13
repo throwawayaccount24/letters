@@ -375,6 +375,17 @@ My girlfriend is gone and everything is worse now. Thats a bojack horseman refer
 
 Sincerely,
 Ryan Shahbaba`
+  },
+  {
+	date: "July 14th, 2025",
+    text: `Dear Mirabelle Jiang,
+
+To be frank, my Summer is going to be very dull without you. I enjoy the grind at times, but I’m not gonna sit here and pretend it’s the same level of enjoyment as when I’m with you. It’s weird I’ve become so accustomed to the high I get when I’m with you that I’m afraid I won’t ever enjoy anything to the same level as when I enjoy my time with you. I don’t exactly understand what it is about you that I can’t enjoy with my friends or by myself. Like I enjoy movies, and going out to eat, and just walking around, but I will never enjoy it as much alone or with my friends as I enjoy doing it with you, which is annoying!!! Get out of my head!!! OH MY GOD HOW AM I GONNA LAST THE ENTIRE SUMMER WITHOUT YOU YOU PRICK!!!! Anyways I already know when you come back I'm gonna have the most goated Summer break ever! I just gotta make it till then...
+
+I miss you and your face and your voice and your humor and like everything so much please come back soon :(...
+
+Sincerely,
+Ryan Shahbaba`
   }
 ]
 
