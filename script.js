@@ -366,6 +366,15 @@ I like how particular you are about things. Your scent, your style, even stuff l
 
 Sincerely,
 Ryan Shahbaba`
+  },
+  {
+	date: "July 13th, 2025",
+    text: `Dear Mirabelle Jiang,
+
+My girlfriend is gone and everything is worse now. Thats a bojack horseman reference but you haven’t watched that show yet. But you do watch a lot of things/read a lot of things I actually talk about. One of the first times I liked you was when you read that stupid short story I Have No Mouth and I must Scream. When you told me you read that my immediate reaction was like “damn, she did that for me??” And you learning all the Pokemon stuff for my poster. The random statistics references. Everything you do for me always gets me like damn. And now im like damn I miss you. Almost all my notes from now on are gonna be crash out notes. As in FUCK YOU COME BACK PLEASE!!!!!!!!!!!!!!!!!!!!!!!!!! I CANT TAKE IT ANYMORE. :(
+
+Sincerely,
+Ryan Shahbaba`
   }
 ]
 
