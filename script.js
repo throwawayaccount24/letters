@@ -386,6 +386,15 @@ I miss you and your face and your voice and your humor and like everything so mu
 
 Sincerely,
 Ryan Shahbaba`
+  },
+  {
+    date: "July 15th, 2025",
+    text: `Dear Mirabelle Jiang,
+
+In a week it will be your birthday! I have some ideas in mind so I will hopefully have all of them done before your birthday/when you come back! So much to do… I will give you a slight hint for your birthday gifts. Gift 1: Technical gift. Gift 2: Requires time to get. Gift 3: What I am to you. Won’t elaborate on any of these “el oh el” have fun trying to figure out :). Also future Ryan you better lock the fuck in and get these done in time istg… I don’t care how hard it is figure it out you bum. Anyways I miss you Mirabelle :).
+
+Sincerely,
+Ryan Shahbaba`
   }
 ]
 
