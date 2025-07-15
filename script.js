@@ -395,6 +395,15 @@ In a week it will be your birthday! I have some ideas in mind so I will hopefull
 
 Sincerely,
 Ryan Shahbaba`
+  },
+  {
+    date: "July 16th, 2025",
+    text: `Dear Mirabelle Jiang,
+
+This one was edited a little after a convo we had. You asked me why I took so long to ask you out officially after my confession. And although the reason I gave you was true, it wasn’t the full truth. I waited until I felt like I could be presentable to your mom. I know that sounds stupid, but I was afraid that if I had nothing to show for my college results to your mom, she wouldn’t approve and I’d lose you. Trying to keep you has always been so important to me, and despite my actions not always showing that, it’s something that constantly swarms my mind. How I can make money, how I can convince my parents to do all the things I wanna do with you, how I can ensure your mom would atleast be somewhat comfortable with you going out with me. One of my biggest fears right now is honestly not living up to all the expectations I place on myself to support you, whether it be emotionally or through other mediums. But that fear is also what motivates me so much, I want you to know no matter what I will work to always be there for you. Even if I get a little awkward or grumpy. You mean a lot to me and I want to make sure you feel secure 24/7. I miss you so much Mirabelle, and I care about you even more.
+
+Sincerely,
+Ryan Shahbaba`
   }
 ]
 
