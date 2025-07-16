@@ -404,7 +404,17 @@ This one was edited a little after a convo we had. You asked me why I took so lo
 
 Sincerely,
 Ryan Shahbaba`
-  }
+  },
+  {
+    date: "July 17th, 2025",
+    text: `Dear Mirabelle Jiang,
+
+Edited a 2nd time after the edit. I’m kinda stupid, I don’t know if I flipped today and yesterday or my thought process was “it would be the 16th for me when you read this...” Anyways HAPPY 5 MONTHS !!!!! YAYYYYYY. By now I’m sure you know why the password to this website is what it is, but did you know I actually use 216 for a lot of things. Aka every 3, 4, and 6 digit passcode I use. Either 216, 0216, or 216216 (including my new phone password yes). I know it’s kinda stupid but the number is really important to me now, it’s something thats so easy to remember and it’s honestly nice to just be doing something mundane and being reminded of you. Whether im at the gym trying to lock away my AirPods case before a grueling 2-3 hours of working out, or I have to log into my iPad to take notes for what will feel like an eternity. I like having things that remind me of you. I also dont because then I really miss you and I’m like fuck I miss mirabelle and you cant be here to make that better. But whatever its ok, I still have you for now :). Even if I don’t technically have you. COME BACK YOU BUM!!!!
+
+Sincerely,
+Ryan Shahbaba
+Sincerely,
+Ryan Shahbaba`
 ]
 
 const startDate = new Date("2025-06-10");
