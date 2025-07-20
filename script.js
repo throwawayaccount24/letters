@@ -412,10 +412,36 @@ Ryan Shahbaba`
 Edited a 2nd time after the edit. I’m kinda stupid, I don’t know if I flipped today and yesterday or my thought process was “it would be the 16th for me when you read this...” Anyways HAPPY 5 MONTHS !!!!! YAYYYYYY. By now I’m sure you know why the password to this website is what it is, but did you know I actually use 216 for a lot of things. Aka every 3, 4, and 6 digit passcode I use. Either 216, 0216, or 216216 (including my new phone password yes). I know it’s kinda stupid but the number is really important to me now, it’s something thats so easy to remember and it’s honestly nice to just be doing something mundane and being reminded of you. Whether im at the gym trying to lock away my AirPods case before a grueling 2-3 hours of working out, or I have to log into my iPad to take notes for what will feel like an eternity. I like having things that remind me of you. I also dont because then I really miss you and I’m like fuck I miss mirabelle and you cant be here to make that better. But whatever its ok, I still have you for now :). Even if I don’t technically have you. COME BACK YOU BUM!!!!
 
 Sincerely,
-Ryan Shahbaba
+Ryan Shahbaba`
+  },
+  {
+    date: "July 18th, 2025",
+    text: `Dear Future Ryan,
+
+How you doing so far? You two ok? You treating her right? I’ll break your fucking kneecaps if you arnt. I have the power to do that. Are you doing well? Two weeks left bro finish strong (not like that though). You better be doing well. Future Mirabelle should I break his fucking kneecaps? Ryan by now you should have completed almost all your gifts and touch up on the last parts of her digital gift your deadline is soon asshole. Do you miss her? I bet you do. I bet you miss her like a lil bitch you loser? Mirabelle does he miss you like a lil bitch? Anyways I miss you a shit ton Mirabelle come back soon :(
+
 Sincerely,
 Ryan Shahbaba`
-  }
+
+  },
+  {
+    date: "July 19th, 2025",
+    text: `Dear Mirabelle,
+
+You turn 18 in 3 days... I dont say that to scare you, I think it’s exciting. I know you are scared about the future, but you are already the most mature person I know. You are more than ready for the “real world” and I have so much faith in you. But whenever you feel overwhelmed or wanna act like a child again or just need to decompress, just know you (almost of age) boyfriend will be here for you. I dont want you to always have that wall up where you are strong, I want to be the person you can just make a fuss over anything in front of, crash out over whatever you need to crash out over. I care about you so much and I always wanna be there for you. Got sidetracked there but the idea is you will be such a goat in the future, although there isn’t gonna be any instantaneous change from now until you’re 18, you are gonna do so well I already know. #Future McKinsley employee, or Lawyer, or whatever you wanna be goat! (Also you’ll be a cougar in 3 days ;)…)
+
+Sincerely,
+Ryan Shahbaba`},
+{
+    date: "July 20th, 2025",
+    text: `Dear Mirabelle,
+
+Today is Kevin’s birthday. This is me asking you to remind me that in case I forget. 
+
+Anyways! Speaking of Kevin, he was my go to friend when I talked about liking you. And I think he was the most goated wingman (literal man) ive ever had. Because bro really forced me to talk to you and not avoid you. Which yes I shouldn’t have had a wingman for, but like Kevin really helped me make one of the most goated decisions of my life for real… Man I fucking miss you I wish I talked to you more before you left. I miss you asshole fuck!! I’m having a little bit of a hard time thinking about anything romantic or smooth to write I just really miss you idk how im gonna write like 10-15 more of these lol
+
+Sincerely,
+Ryan Shahbaba`}
 ]
 
 const startDate = new Date("2025-06-10");
