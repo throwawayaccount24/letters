@@ -441,7 +441,15 @@ Today is Kevin’s birthday. This is me asking you to remind me that in case I f
 Anyways! Speaking of Kevin, he was my go to friend when I talked about liking you. And I think he was the most goated wingman (literal man) ive ever had. Because bro really forced me to talk to you and not avoid you. Which yes I shouldn’t have had a wingman for, but like Kevin really helped me make one of the most goated decisions of my life for real… Man I fucking miss you I wish I talked to you more before you left. I miss you asshole fuck!! I’m having a little bit of a hard time thinking about anything romantic or smooth to write I just really miss you idk how im gonna write like 10-15 more of these lol
 
 Sincerely,
-Ryan Shahbaba`}
+Ryan Shahbaba`},
+{
+    date: "July 21st, 2025",
+    text: `Dear future Cougar (joke don't kill me please),
+
+Tomorrow I will be your birthday. Mirabelle’s Eve. The big day. I already wrote one sappy love note on a card that you will open tomorrow, and my note for tomorrow arguably even more sappy. So today I’m gonna write about how much I miss you. (No I’m not being uncreative I just have severe Stockholm syndrome, which by the way fun fact, the name comes from a bank robbery that happened in Sweden’s city “Stockholm.” Stockholm. Stalk home. I wish I could stalk you home, but not in a creepy way, in a lovey dovey way or whatever. I miss you bro I cant even be nonchalant about it. Where are you what are you doing why are you not here by my side. I’m tired. I miss my girlfriend. It’s ok no I dont. Yes I do. RELEASE ME!!! RELEASE ME!!! Anyways come back soon I don’t even know where I’m going with this note I swear ill get more coherent with the rest of them, just this one is my final like for real crash out one because my fucking god I miss you asshole.
+
+Sincerely,
+Ryan Shahbaba`},
 ]
 
 const startDate = new Date("2025-06-10");
