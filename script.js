@@ -450,6 +450,17 @@ Tomorrow I will be your birthday. Mirabelle’s Eve. The big day. I already wrot
 
 Sincerely,
 Ryan Shahbaba`},
+{
+    date: "July 22nd, 2025",
+    text: `Dear Birthday Girl,
+
+Rachmaninoff was believed to have dedicated three songs to his wife, Natalie Satina—potentially four according to some websites, but most dispute this belief. Although I am no Rach, and I certainly couldn’t compose a song as beautiful as his Op. 21, No. 7, I have other “artistic” capabilities to which I dedicate to you. When trying to think of how to give you a birthday gift, I couldn’t really think of exactly how to make a more unique one for you, but that was when I realized I could use my math and coding capabilities to hopefully deliver one that could capture your genuine beauty. As you might recall, I asked you to give me three of your favorite photos about a month ago, to which I used one for this gift. I wanted to do more, but I was quickly met with the realization that this was no simple feat. From creating a computer algorithm that could vectorize you—essentially tracing your perfect figure via a machine learning model—to actually using your silhouette to map out how I was going to draw you via math equations, to simply figuring out how to write all 1,160 lines of math equations, this entire project took me over 20 hours, but it was the most fun I’ve ever had working on a project. I really hope you enjoy this gift as much as I got to enjoy looking at your beautiful face the past month while working on it. Without further ado, I’ve attached a link to the final product: “https://www.instagram.com/reel/DMY9w64yPZ-Xa7ZknyoXKDYojkI3sBz5udFQd40/?igsh=MTZ4anVpc2ZlM3VmNQ==”
+
+I miss you so much :)
+
+Sincerely,
+Ryan Shahbaba`},
+
 ]
 
 const startDate = new Date("2025-06-10");
