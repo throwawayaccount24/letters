@@ -460,8 +460,22 @@ I miss you so much :)
 
 Sincerely,
 Ryan Shahbaba`},
+	{
+    date: "July 23rd, 2025",
+    text: `Dear Birthday Girl,
 
+Although your birthday has technically passed in China, you still got an entire day in the US :). So again, HAPPY BIRTHDAY! And as of today, I get to see you in 9 fucking days lets fucking go!!!! I hope we are doing well. And that your birthday was a really fun day, and that you are having a lot of fun in China and you didnt cheat on me yet. Unless it’s with a really rich guy in which case I get half your earnings. Anyways I hope you enjoyed your birthday gift and you’ll enjoy the other ones to come. I worked pretty hard on that (assuming I finished) if I didn’t, future Ryan you are an absolute bum!! Anyways I miss you.
+
+Sincerely,
+Ryan Shahbaba`},
+    date: "July 24th, 2025",
+    text: `Dear Birthday Girl,
+
+I pinch myself sometimes. Not because I don’t believe any of this is real, but I miss the feeling of you kinda biting and nibbling on me (and also because I don’t believe any of this is real). Physical touch was never quite something I was prone to growing up. A simple side hug felt uncomfortable for me, people patting my head, shaking my hand at times, or just brushing up against me. But with you all I wanna do is hold you, hold your hand, hold you in my arms, even pick you up. I literally cant stop myself. I want to hug you, something I never really did, I want to feel your lips more your body more I don’t know. To think I went from germaphobic anti touch freak to missing my girlfriend just biting me is absurd. But I miss that and I miss your feeling and I realized how important physical touch is when it’s someone I really care about. And I really care about you. I miss you Mirabelle I can’t wait to hold you.
+Sincerely,
+Ryan Shahbaba`}
 ]
+
 
 const startDate = new Date("2025-06-10");
 
