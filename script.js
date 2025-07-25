@@ -479,7 +479,7 @@ Ryan Shahbaba`},
     date: "July 25th, 2025",
     text: `Dear Birthday Girl,
 
-You are almost here, a week away I can practically feel it. I can practically feel you. I do very much miss you, you know that? Of course you do. It’s all I’ve been talking about. A week away from finally seeing you in person. I have a really bad feeling I’m gonna get nervous all over again. But I’ll be happy no matter what happens. I hope you’ll be happy too. I’m just kidding I know you will be. I bet your ass misses me too… Loser… (joke dont hurt me). Please come back :(
+Before you point it out, yes the "Birthday Girl" is intentional, because everyday is your birthday :). You are almost here, a week away I can practically feel it. I can practically feel you. I do very much miss you, you know that? Of course you do. It’s all I’ve been talking about. A week away from finally seeing you in person. I have a really bad feeling I’m gonna get nervous all over again. But I’ll be happy no matter what happens. I hope you’ll be happy too. I’m just kidding I know you will be. I bet your ass misses me too… Loser… (joke dont hurt me). Please come back :(
 
 Sincerely,
 Ryan Shahbaba`}
