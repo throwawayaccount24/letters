@@ -475,9 +475,10 @@ Ryan Shahbaba`},
 I pinch myself sometimes. Not because I don’t believe any of this is real, but I miss the feeling of you kinda biting and nibbling on me (and also because I don’t believe any of this is real). Physical touch was never quite something I was prone to growing up. A simple side hug felt uncomfortable for me, people patting my head, shaking my hand at times, or just brushing up against me. But with you all I wanna do is hold you, hold your hand, hold you in my arms, even pick you up. I literally cant stop myself. I want to hug you, something I never really did, I want to feel your lips more your body more I don’t know. To think I went from germaphobic anti touch freak to missing my girlfriend just biting me is absurd. But I miss that and I miss your feeling and I realized how important physical touch is when it’s someone I really care about. And I really care about you. I miss you Mirabelle I can’t wait to hold you.
 Sincerely,
 Ryan Shahbaba`},
+{
     date: "July 25th, 2025",
     text: `Dear Birthday Girl,
-{
+
 You are almost here, a week away I can practically feel it. I can practically feel you. I do very much miss you, you know that? Of course you do. It’s all I’ve been talking about. A week away from finally seeing you in person. I have a really bad feeling I’m gonna get nervous all over again. But I’ll be happy no matter what happens. I hope you’ll be happy too. I’m just kidding I know you will be. I bet your ass misses me too… Loser… (joke dont hurt me). Please come back :(
 
 Sincerely,
