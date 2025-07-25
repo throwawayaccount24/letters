@@ -482,6 +482,13 @@ Ryan Shahbaba`},
 Before you point it out, yes the "Birthday Girl" is intentional, because everyday is your birthday :). You are almost here, a week away I can practically feel it. I can practically feel you. I do very much miss you, you know that? Of course you do. It’s all I’ve been talking about. A week away from finally seeing you in person. I have a really bad feeling I’m gonna get nervous all over again. But I’ll be happy no matter what happens. I hope you’ll be happy too. I’m just kidding I know you will be. I bet your ass misses me too… Loser… (joke dont hurt me). Please come back :(
 
 Sincerely,
+Ryan Shahbaba`},
+	{
+    date: "July 26th, 2025",
+    text: `Dear Birthday Girl,
+
+What would I be doing right now if not dating you? I don’t know. I literally don’t know. Like I’d be living life but I think I would possibly be stuck up on regretting not taking advantage of the possibility of us dating. I think I would literally go nuts.  I think no matter what, I would’ve eventually pursued you, from the second we started talking I couldn’t stop myself from constantly grinning and thinking about the possibility of us being together. At the time I always thought it would be impossible, but I know my ass couldn’t go more than a couple days of being deprived of talking to you. Granted I’d never truly know what would happen if we never started going out when we did, but all I know for sure is thank God we are dating and I’m not being a complete bum right now. Like would I be working out? Would I be grinding as much as I am right now? Would I even own a letterboxd account!? Too scary to think about. Nightmare fuel. I miss you so much by the way, I can’t believe how close you are!!
+Sincerely,
 Ryan Shahbaba`}
 ]
 
