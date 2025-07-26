@@ -488,7 +488,31 @@ Ryan Shahbaba`},
     text: `Dear Birthday Girl,
 
 What would I be doing right now if not dating you? I don’t know. I literally don’t know. Like I’d be living life but I think I would possibly be stuck up on regretting not taking advantage of the possibility of us dating. I think I would literally go nuts.  I think no matter what, I would’ve eventually pursued you, from the second we started talking I couldn’t stop myself from constantly grinning and thinking about the possibility of us being together. At the time I always thought it would be impossible, but I know my ass couldn’t go more than a couple days of being deprived of talking to you. Granted I’d never truly know what would happen if we never started going out when we did, but all I know for sure is thank God we are dating and I’m not being a complete bum right now. Like would I be working out? Would I be grinding as much as I am right now? Would I even own a letterboxd account!? Too scary to think about. Nightmare fuel. I miss you so much by the way, I can’t believe how close you are!!
+
 Sincerely,
+Ryan Shahbaba`},
+	{
+    date: "July 27th, 2025",
+    text: `Dear Birthday Girl,
+
+5 more days !!!! RAHHHHHH LETS FUCKING GO!!!! RAHHHHHHHHH. 5 DAYS LETS FUCKING GOOOO. WE ARE SO GOATED BRO RAHHHHHHHHHHH. Anyways I can’t wait to see your ass in 5 days, I’m so so so so so excited I can’t even think about anything else to say other than 5 fucking days!! WOOHOO. Ok I really miss you and I can’t wait to slobber over you some more in person.
+
+Sincerely,
+Ryan Shahbaba`},
+	{
+    date: "July 28th, 2025",
+    text: `Dear Birthday Girl,
+
+4 more days. I edited this bite a lil to match the fact I’m camping today. I will probably be gone the entire day but I will be thinking of you non stop while I’m out. And then I can give you all the exciting updates that I experienced while out. What if I take down a bear, or saved our entire camp from burning down. Anyways, I wish we could go camping together that sounds really fun, I think if we did we should go somewhere that’s a national park, or if we can, we can rent out a cabin or something. That sounds really fun too.. I wanna do so many things with you. I miss you so much man.
+
+Sincerely,
+Ryan Shahbaba`},
+	{
+    date: "July 29th, 2025",
+    text: `Dear Birthday Girl,
+
+3 more days what the fuck!??? How did I even make it this long without you that’s crazy. 3 more fucking days!!! You’re ass better not stay any longer or else I’m gonna tweak. Don’t make me tweak bro please I can’t wait any fucking longer it’s not fair!!! You better be in my house come August 1st or else ima be salty asf!!! Anyways hurry your fine ass up and pack and get ready for that Friday. I miss you :).Sincerely,
+
 Ryan Shahbaba`}
 ]
 
