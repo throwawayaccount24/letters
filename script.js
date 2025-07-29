@@ -513,6 +513,13 @@ Ryan Shahbaba`},
 
 3 more days what the fuck!??? How did I even make it this long without you that’s crazy. 3 more fucking days!!! You’re ass better not stay any longer or else I’m gonna tweak. Don’t make me tweak bro please I can’t wait any fucking longer it’s not fair!!! You better be in my house come August 1st or else ima be salty asf!!! Anyways hurry your fine ass up and pack and get ready for that Friday. I miss you :).Sincerely,
 
+Ryan Shahbaba`},
+	{
+    date: "July 30th, 2025",
+    text: `Dear Birthday Girl,
+
+Man… I am running out of creative things to say I JUST MISS YOU. I can’t fucking wait to see you. I need to see you. I NEED TO SEE YOUUUU. WHERE YOU AT. What if I just came to China right now and took you back with me. I think you’d kill me. But I’m lowkey selfish. I’m on my way. I’m kidnapping you. Future Ryan did I give in and kidnap her? Joke. Maybe. Idk anymore. I miss you. Screw you come back. Tweakout session….
+
 Ryan Shahbaba`}
 ]
 
